@@ -1,0 +1,57 @@
+#pic{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color:rgb(44, 42, 42); 
+    background-color: rgba(123,123,123,0.7); 
+    opacity: 0.9;
+    text-align: center;
+}
+.btn{
+    position: absolute;
+    top: 90%;
+    left: 47%;
+    background-color:teal;
+    padding: 12px 24px; 
+    color: white;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: turquoise;
+}
+.para{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    font: bold;
+    font-size: 250%;
+    color:white;
+}
+.img{
+    position: absolute;
+    top: 215%;
+    left: 60%;
+    width: 30%;
+    height: 30%;
+}
+.txt{
+    position: relative;
+    top: 145%;
+    left: 30%;
+}
+.myform{
+    position: center;
+    padding: 70px; 
+    width: 40%;
+    height: auto;
+    left: 30%;
+    font: bold;
+    background-color:darksalmon;
+    
+}
+#btn{
+    position: absolute;
+    left: 40%; 
+    font: bold;
+    
+}
